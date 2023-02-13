@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="![image](https://user-images.githubusercontent.com/109834155/218528242-28629dfa-c10d-488c-b9c1-fd212e398ccc.png)" width="100"/>
+</div>
 
 <!--
 **smichaelonline/smichaelonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
