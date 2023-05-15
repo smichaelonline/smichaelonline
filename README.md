@@ -11,8 +11,8 @@
 
 <div id="about-me"> 
   <h2>About me: </h2>
-  <p>I am a iOS developer with three years of experience in brand strategy. I recently decided to change my career and just gradtuated from the Software Engineering Immersive bootcamp at General Assembly. My passion points are centered around mobile development which allows users to have easy accesiblity to their favorite apps at any time.</p>
-  <p>Outside of coding and deveoping apps, I spend my time with my dog, Daisy and bird, Nori. I previously was a professional makeup artist. I also enjoy photography (follow me on tiktok to follow my product photography journey - i'm turning that into an app soon!)</p>
+  <p>I am an iOS developer with three years of experience in brand strategy, project and client management. I recently decided to change my career and just graduated from the Software Engineering Immersive bootcamp at General Assembly. My passion points are centered around mobile development which allows users to have easy accesiblity to their favorite apps at any time.</p>
+  <p>Outside of coding and deveoping apps, I spend my time with my dog, Daisy, and bird, Nori. I previously was a professional makeup artist.</p>
   <h4>Pet tax:</h4>
   <h6>Left: Daisy / Right: Nori</h6>
   <img src="https://user-images.githubusercontent.com/109834155/218552981-bb1a09e7-7e44-47ed-b0dc-8de3a9e7fdbc.png" width= 300>
